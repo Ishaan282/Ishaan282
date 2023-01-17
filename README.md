@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ishaan1106
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can message me on discord --> Ishaan#9585, Telegram --> @Ishaan_1106
 
 <!---
