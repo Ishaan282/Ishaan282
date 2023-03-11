@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishaan1106
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently a student
 - 📫 you can message me on Telegram --> @Ishaan_1106 , email :- shunsuke062004@gmail.com
 
 <!---
