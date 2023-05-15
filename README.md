@@ -8,7 +8,7 @@ I am a Computer Science Undergraduate student from Chitkara University. I'm skil
 
 ## 🌐 Socials:
 <p align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ishaan1106/">
+    <a href="https://www.linkedin.com/in/ishaan1106/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
     </a> &nbsp;&nbsp;&nbsp;
     <a href="https://t.me/Ishaan_1106">
