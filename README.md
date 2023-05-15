@@ -8,8 +8,12 @@ I am a Computer Science Undergraduate student from Chitkara University. I'm skil
 
 ## 🌐 Socials:
 <p align="center">
-[![Ishaan SIngla](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishaan1106/) 
-[![Ishaan_1106](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ishaan_1106)
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/ishaan1106/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    </a> &nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/Ishaan_1106">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
+    </a> &nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -21,6 +25,7 @@ I am a Computer Science Undergraduate student from Chitkara University. I'm skil
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
 # 📊 GitHub Stats:
