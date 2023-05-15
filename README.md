@@ -28,7 +28,6 @@ I am a Computer Science Undergraduate student from Chitkara University. I'm skil
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![office-365](https://www.clipartmax.com/png/middle/117-1178605_office-365-grande-office-365-logo-2018.png)&nbsp;
 
 
 # 📊 GitHub Stats:
