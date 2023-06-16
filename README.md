@@ -33,3 +33,7 @@ I am a Computer Science Undergraduate student from Chitkara University. I love t
 
 ## 🏆 Github Status
 ![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan1106&show_icons=true&theme=cobalt)
+
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan1106)](https://github.com/anuraghazra/github-readme-stats)
+<br>
