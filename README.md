@@ -31,12 +31,6 @@ I am a Computer Science Undergraduate student from Chitkara University. I love t
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ishaan1106&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ishaan1106&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan1106&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 Github Status
 ![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimatecoder2&count_private=true&show_icons=true&hide_border=true&theme=algolia&card_width=450)
 <br/>
