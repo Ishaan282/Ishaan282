@@ -3,7 +3,7 @@
 
 <h3 align="center">Welcome to my space. I'm an Enthusiastic Software Developer from India ❤</h3>
   
-I am a Computer Science Undergraduate student from Chitkara University. I'm skilled in Full-Stack Web Development. I am passionate about developing softwares that can solve real world problems.  I love to explore and learn about new technologies.
+I am a Computer Science Undergraduate student from Chitkara University. I love to explore and learn about new technologies and applying them. 
 
 
 ## 🌐 Socials:
@@ -28,6 +28,8 @@ I am a Computer Science Undergraduate student from Chitkara University. I'm skil
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 
 
 # 📊 GitHub Stats:
@@ -35,6 +37,12 @@ I am a Computer Science Undergraduate student from Chitkara University. I'm skil
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ishaan1106&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan1106&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ishaan1106&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Github Status
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimatecoder2&count_private=true&show_icons=true&hide_border=true&theme=algolia&card_width=450)
+<br/>
 
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia&langs_count=25&card_width=450)
+
+
+
+<br/>
