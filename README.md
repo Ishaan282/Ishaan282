@@ -32,4 +32,4 @@ I am a Computer Science Undergraduate student from Chitkara University. I love t
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 
 ## 🏆 Github Status
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=	Ishaan1106&show_icons=true&theme=cobalt)
+![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan1106&show_icons=true&theme=cobalt)
