@@ -1,9 +1,9 @@
 [![Hello, world](https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png?resize=1000%2C576)](https://github.com/Ishaan1106)
 <h1 align="center"> Hello fellow  &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;, I'm Ishaan Singla <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="35px"> ! </h1>
 
-<h3 align="center">Welcome to my space. I'm an Enthusiastic Software Developer from India ❤</h3>
+<h3 align="center">Welcome to my space. I'm an Enthusiastic Developer from India ❤</h3>
   
-I am a Computer Science Undergraduate student from Chitkara University. I love to explore and learn about new technologies and applying them. 
+I'm a curious person who loves to explore new things and technology. I enjoy creating digital art and expressing my imagination through drawing. I also like to read books that transport me to different worlds and hear stories that are full of fantasy and adventure and books about self growth which helps me learn alot. I'm always eager to learn more and have fun with my hobbies. I'm fascinated by the endless possibilities of what tech and science can do. That's why I'm always eager to learn more about it. 
 
 
 ## 🌐 Socials:
