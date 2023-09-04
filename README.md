@@ -1,4 +1,4 @@
-[![Hello, world](http://i.imgur.com/c7GmAJf.png)](https://github.com/Ishaan1106)
+[![Hello, world](https://github.blog/wp-content/uploads/2014/05/db213bb4-d22e-11e3-8549-ea607b77ad7c.png?resize=1000%2C576)](https://github.com/Ishaan1106)
 <h1 align="center"> Hello fellow  &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;, I'm Ishaan Singla <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="35px"> ! </h1>
 
 <h3 align="center">Welcome to my space. I'm an Enthusiastic Software Developer from India ❤</h3>
