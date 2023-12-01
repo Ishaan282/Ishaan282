@@ -11,9 +11,6 @@ I'm a curious person who loves to explore new things and technology. I enjoy cre
     <a href="https://www.linkedin.com/in/ishaan1106/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
     </a> &nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/Ishaan_1106">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> 
-    </a> &nbsp;&nbsp;&nbsp;
 </p>
 
 
