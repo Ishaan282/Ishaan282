@@ -29,8 +29,8 @@ I'm a curious person who loves to explore new things and technology. I enjoy cre
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 
 ## 🏆 Github Status
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan1106&show_icons=true&theme=cobalt)
+![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan282&show_icons=true&theme=cobalt)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan1106&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan282&langs_count=8)
 <br/>
