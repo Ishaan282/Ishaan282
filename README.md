@@ -6,11 +6,12 @@
 I'm a curious person who loves to explore new things and technology. I enjoy creating digital art and expressing my imagination through drawing. I also like to read books that transport me to different worlds and hear stories that are full of fantasy and adventure and books about self growth which helps me learn alot. I'm always eager to learn more and have fun with my hobbies. I'm fascinated by the endless possibilities of what tech and science can do. That's why I'm always eager to learn more about it. 
 
 
-## 🤝🏻 Connect with me
+## 🤝🏻 Me
 <p align="center">
-  <a href="mailto:ishaansingla282@gmail.com"><img src="https://img.shields.io/badge/-IshaanSingla-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ishaan282/"><img src="https://img.shields.io/badge/-Ishaan282-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Ishaan282"><img src="https://img.shields.io/badge/-Ishaan282-D14836?style=flat&logo=GitHub&logoColor=black"/></a> &nbsp;&nbsp;&nbsp;
+    <a href="mailto:ishaansingla282@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ishaan282/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Ishaan282"><img src="https://img.shields.io/badge/-Github-D14836?style=flat&logo=GitHub&logoColor=black"/></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/Ishaan282/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06"/></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 
